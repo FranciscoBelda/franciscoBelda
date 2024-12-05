@@ -1,21 +1,20 @@
 
-<div style="text-align: center;width: 300px" >
-   <img alt="Logo" style="text-align: center;width: 200px" src="https://avatars.githubusercontent.com/u/118449691?v=4"/>
-" />
-   <h3  style="text-align: center" >¡Hola 👋🏻!</h3>
-   <h3  style="text-align: center" >👨🏻‍💻</h3>
-   <h3  style="text-align: center" >Soy Francisco Belda</h3>
-   <h4  style="text-align: center" >Profesor de Angular, Ionic, Spring Boot, Node.js, NestJs y Java.</h4>
+<div align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/118449691?v=4" />
+   <h3 align="center">¡Hola 👋🏻!</h3>
+   <h3 align="center">👨🏻‍💻</h3>
+   <h3 align="center">Soy Francisco Belda</h3>
+   <h4 align="center">Profesor de Angular, Ionic, Spring Boot, Node.js, NestJs y Java.</h4>
 </div>
 <!--
-<div  style="text-align: center" >
+<div align="center">
 ![franciscoBelda's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobelda&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
 </div>
 -->
-<p  style="text-align: center" >
+<p align="center">
   <span style="width: 8px;"> </span>
    <a href="https://youtube.com/@franciscobelda" target="blank">
-    <img  style="text-align: center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="69px" width="99px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="69px" width="99px" />
   </a>
 </p>
 
