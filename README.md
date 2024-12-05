@@ -2,8 +2,8 @@
 <div align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/118449691?v=4" />
    <h3 align="center">¡Hola 👋🏻!</h3>
-   <h3 align="center">👨🏻‍💻</h3>
-   <h3 align="center">Soy Francisco Belda</h3>
+   <h1 align="center">👨🏻‍💻</h3>
+   <h2 align="center">Soy Francisco Belda</h3>
    <h4 align="center">Profesor de Angular, Ionic, Spring Boot, Node.js, NestJs y Java.</h4>
 </div>
 <!--
