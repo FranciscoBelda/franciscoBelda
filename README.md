@@ -21,13 +21,13 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/@franciscobelda?sub_confirmation=1)
 
 <a href='https://youtu.be/Zj6QJnk9QHo?si=JknxxiP80MaVCSZA' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi/Zj6QJnk9QHo/mqdefault.jpg?v=6750bc2f&sqp=COTUxboG&rs=AOn4CLCA6bO51_ytyhY_QK1_xmvyvsIaUQ' alt='Última sesión con Angular.' />
+  <img width='30%' src='https://i.ytimg.com/an_webp/Zj6QJnk9QHo/mqdefault_6s.webp?du=3000&sqp=CPitx7oG&rs=AOn4CLBqGKJ1l9xPf0uPP3f7jYXamw_C0g' alt='Última sesión con Angular.' />
 </a>
 <a href='https://youtu.be/EKfosmb2p2w' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/EKfosmb2p2w/mqdefault.webp?v=674e177e&sqp=COTUxboG&rs=AOn4CLDAFJwUK7C5jRnKE0mucvmAYKGxsw' alt='Creamos la web para la API de películas.' />
+  <img width='30%' src='https://i.ytimg.com/an_webp/EKfosmb2p2w/mqdefault_6s.webp?du=3000&sqp=CMT_xroG&rs=AOn4CLASSuUJpF6ireYJ2lb1WAsZ7NWdsg' alt='Creamos la web para la API de películas.' />
 </a>
 <a href='https://youtu.be/9JiMNex_rak' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi/9JiMNex_rak/mqdefault.jpg?v=6744d955&sqp=COTUxboG&rs=AOn4CLDOroo7bMU3PgzUWnugB0s7UJI0lQ' alt='Vamos a crear un proyecto Stack Mean' />
+  <img width='30%' src='https://i.ytimg.com/vi/9JiMNex_rak/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlqUjNNOJeRlE_xPA9kPf8S6AyRQ' alt='Vamos a crear un proyecto Stack Mean' />
 </a>
 
 ### 📝 Últimos proyectos interesantes
