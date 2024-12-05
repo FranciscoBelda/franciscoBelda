@@ -1,6 +1,6 @@
 
 <div style="text-align: center;width: 300px" >
-   <img alt="Logo" style="text-align: center;width: 200px" src="https://avatars.githubusercontent.com/u/118449691?v=4
+   <img alt="Logo" style="text-align: center;width: 200px" src="https://avatars.githubusercontent.com/u/118449691?v=4"/>
 " />
    <h3  style="text-align: center" >¡Hola 👋🏻!</h3>
    <h3  style="text-align: center" >👨🏻‍💻</h3>
